@@ -5,3 +5,5 @@ Nesse repositório você irá encontrar a resolução do desafio Zapt na linguag
 ### Stack utilizada
 - Java 8
 - Node.js
+
+- versão do node: 14.0
